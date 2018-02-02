@@ -13,6 +13,7 @@ class MapViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("added Map view controller")
+        print("added in branch 2")
         // Do any additional setup after loading the view.
     }
 
