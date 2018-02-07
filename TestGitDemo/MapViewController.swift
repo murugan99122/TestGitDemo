@@ -14,7 +14,8 @@ class MapViewController: UIViewController {
         super.viewDidLoad()
         print("added Map view controller")
         print("added in branch 2")
-        // Do any additional setup after loading the view.
+        print("07/02/18")
+      // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
